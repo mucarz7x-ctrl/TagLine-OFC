@@ -313,4 +313,5 @@ Termos de Serviço da Creative TagLine
   <script src="script.js"></script>
 
 </body>
-</html>
+</html>https://discord.gg/5uP6VaCXg
+
